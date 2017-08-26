@@ -58,7 +58,7 @@ To do this, run `ionic serve` which will start a local web server and launch you
 We also have a fun side-by-side development tool called Lab that you can run with `ionic serve --lab`. This runs your app with iOS styles and Android styles side-by-side. It's a great way to see what your app will look like on all platforms while you develop and test!
 -->
 
-### [Platform Guides](#platform-guides)
+### [Platform Guidess](#platform-guides)
 
 For those building native apps for iOS and Android (most of you!), each platform has certain features and installation requirements before you can get the most out of your Ionic and Cordova development.
 
